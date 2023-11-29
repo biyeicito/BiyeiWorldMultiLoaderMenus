@@ -1,11 +1,11 @@
 [
   {
       "menu_name": "MW2/MW2 Luther",
-      "status": "active",
+      "status": "inactive",
       "url_download": "https://cdn.discordapp.com/attachments/1066202825920614532/1179332206536167434/LUT.exe"
     },
     {
-      "menu_name": "example_menu1",
+      "menu_name": "MW3 Luther",
       "status": "inactive",
       "url_download": "https://example.com/menu1.exe"
     },
