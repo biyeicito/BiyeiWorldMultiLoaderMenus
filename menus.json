@@ -1,17 +1,19 @@
-[
+{
+  "menus": [
     {
-      "menu_name": "luthermw2",
+      "menuName": "luthermw2",
       "status": "active",
-      "url_download": "https://rhwhwrh.com/qegqeg.exe"
+      "urlDownload": "https://rhwhwrh.com/qegqeg.exe"
     },
     {
-      "menu_name": "example_menu1",
+      "menuName": "example_menu1",
       "status": "inactive",
-      "url_download": "https://example.com/menu1.exe"
+      "urlDownload": "https://example.com/menu1.exe"
     },
     {
-      "menu_name": "awesome_menu",
+      "menuName": "awesome_menu",
       "status": "active",
-      "url_download": "https://awesome.com/awesome_menu.exe"
+      "urlDownload": "https://awesome.com/awesome_menu.exe"
     }
-]
+  ]
+}
